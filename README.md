@@ -11,7 +11,7 @@ required person using mail immediatley...
 
 Feel free to ping me
 
-phone: 9025421765
+phone: 7868932481
 
-gmail: k.gokulappaduraikjgv@gmail.com
+gmail: jayapriyan11802@gmail.com
 
