@@ -9,9 +9,8 @@ required person using mail immediatley...
 
 **Inside the clf and weights folder there is a link for both files download and place the files on the correct link present folder.**
 
-Feel free to ping me
-
-phone: 7868932481
-
-gmail: jayapriyan11802@gmail.com
-
+# Contact
+Jayapriyan.M  
+BE-CSE Student   
+Email : jayapriyan11802@gmail.com   
+Phone : 7868932481
